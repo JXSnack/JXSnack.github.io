@@ -1,4 +1,4 @@
-baseURL: "https://snackbag.net"
+baseURL: "https://JXSnack.github.io"
 languageCode: "en-us"
 theme: "PaperMod"
 
@@ -42,7 +42,7 @@ params:
     disableFingerprinting: true
 
   editPost:
-    URL: "https://github.com/jxsnack/snackbag-blog/content"
+    URL: "https://github.com/JXSnack/JXSnack.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
