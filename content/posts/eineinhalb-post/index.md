@@ -1,54 +1,23 @@
 ---
-title: "Test"
-date: 2022-12-11T15:20:56+01:00
-author: "JXSnack"
+title: "New website!"
+date: 2022-12-16T13:41:00+01:00
+author: "JX_Snack"
 tags:
-  - erster Tag
-  - noch ein Tag
-  - blabla
+  - update
+  - new
 draft: false
 weight: 1  # pinned
 cover:
-    image: "joram-schlaeft.jpg"
-    alt: "Schnorch"
-    caption: "Schnorch"
+    image: "new-website-cover.jpg"
+    alt: "Cover image"
+    caption: "Cover image"
 ---
 
-Willkommen zu SnackBag.net, dem Blog von JXSnack.
-Hier werde ich viele Artikel schreiben.
-Dazu schreibe ich den Text immer mit einem Satz pro Zeile.
-Auf diese Weise kann man Änderungen im Text mit `git` leichter verwalten.
+### Dear SnackBag community,
+*We warmly greet you, not only to our blog, but also to a brand-new era.*
 
-```python
-import sys
+As you have already noticed, we said goodbye to our old website after a long time of use. Because with time come a lot more technical issues, which took a lot of time and made it difficult for us to keep the website up to date.That has prompted us to delete the forum, and we are happy now to present you this blog. 
 
-def main():
-  sys.exit(1)
+However, this is not a step backwards, but a step into the future, which WILL be accompanied by new updates, features, and a new way of telling you what's happening on the server. While the forum was available to you for applications and for exchanging opinions, our Discord is now the place for it - there you can still write applications to be a moderator, developer or builder. Of course, you can also always ask questions about the server. This also makes it easier to let the community talk to each other, and have more fun than before :)
 
-main()
-```
-
-# Ich bin ein H1
-
-Ich bin ein Schokokeks.
-Er war ein Schokokuchen.
-
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
-The Quick Brown Fox Jumps Over the Lazy Dog.
+[![discord_invite.png](discord_invite.png)](https://link.snackbag.net/discord)

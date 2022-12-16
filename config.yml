@@ -11,22 +11,27 @@ minify:
 
 params:
   env: production
-  title: "Snackbag.net - The Blog"
-  description: "A trial of errors"
+  title: "SnackBag.NET"
+  description: "SnackBag\'s official blog"
   keywords:
     - Blog
-    - JXSNack
-  author: JX_Snack@gmail.com
+    - JXSnack
+    - JX_Snack
+    - JX Snack
+    - SnackBag
+    - Minecraft
+    - Server
+  author: jx.snack@gmail.com
   DateFormat: "Jan 2, 2006"
-  defaultTheme: "light"
-  disableThemeToggle: true
+  defaultTheme: "dark"
+  disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: false
+  ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -42,7 +47,7 @@ params:
     disableFingerprinting: true
 
   editPost:
-    URL: "https://github.com/JXSnack/JXSnack.github.io/content"
+    URL: "https://github.com/JXSnack/JXSnack.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
