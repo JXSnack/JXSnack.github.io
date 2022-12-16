@@ -14,7 +14,7 @@ cover:
     caption: "Schnorch"
 ---
 
-Willkommen zu Snackback.net, dem Blog von JXSNack.
+Willkommen zu SnackBag.net, dem Blog von JXSnack.
 Hier werde ich viele Artikel schreiben.
 Dazu schreibe ich den Text immer mit einem Satz pro Zeile.
 Auf diese Weise kann man Änderungen im Text mit `git` leichter verwalten.
@@ -31,6 +31,7 @@ main()
 # Ich bin ein H1
 
 Ich bin ein Schokokeks.
+Er war ein Schokokuchen.
 
 The Quick Brown Fox Jumps Over the Lazy Dog.
 The Quick Brown Fox Jumps Over the Lazy Dog.
